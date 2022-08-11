@@ -1,0 +1,18 @@
+*.dll
+.vs
+*.cache
+*.user
+*.tmp
+*.cs.bak
+*.con
+*.suo
+*.vspscc
+Visual Studio Projects/**/bin/*
+Visual Studio Projects/**/obj/*
+*.pdb
+thumbs.db
+spkl.json
+*.nupkg
+*.nuspec
+*.mkelem
+Debug
